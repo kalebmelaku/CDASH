@@ -1,5 +1,5 @@
 {
-  "name": "windmill-dashboard",
+  "name": "dashboard",
   "version": "1.0.2",
   "description": "A multi theme, completely accessible, with components and pages examples, ready for production dashboard.",
   "scripts": {
@@ -8,7 +8,6 @@
     "cz": "git-cz",
     "release": "release-it"
   },
-  "author": "Estevan Maito <ejmaito@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@release-it/conventional-changelog": "1.1.4",
